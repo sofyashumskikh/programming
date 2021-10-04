@@ -17,3 +17,8 @@
     return 0;
   }
 ```
+
+Cсылка 
+* https://github.com
+* [тест по Git](https://www.learnqa.ru/gittest)
+* 
