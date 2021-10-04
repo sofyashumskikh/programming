@@ -20,7 +20,6 @@
 + Git, Git-Hub
 + Основы программирования С++
 
-    #include <iostream>
-      int main(){
-        return 0;
-      }
+  int main(){
+    return 0;
+  }
