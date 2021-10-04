@@ -10,16 +10,6 @@
 * Git, Git-Hub
 * Основы программирования С++
 
-
-- Batch-sctipt
-- Git, Git-Hub
-- Основы программирования С++
-
-
-+ Batch-sctipt
-+ Git, Git-Hub
-+ Основы программирования С++
-
 КОД ПРОГРАММЫ: 
 ```
   #include <iostream>
