@@ -20,6 +20,6 @@
 + Git, Git-Hub
 + Основы программирования С++
 
-  int main(){
+  int main{}{
     return 0;
   }
